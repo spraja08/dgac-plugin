@@ -1,0 +1,5 @@
+com/aws/dgac/plugin/DGaCFunctionPlugin.class
+com/aws/dgac/plugin/HashFunction.class
+com/aws/dgac/plugin/RedactFunction.class
+com/aws/dgac/plugin/HelloFunction.class
+com/aws/dgac/plugin/BlockFunction.class
